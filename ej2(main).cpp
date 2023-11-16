@@ -24,7 +24,7 @@ int main() {
     std::cin >> radioCirculo;
 
     double areaCirculo = Geometria::calcularAreaCirculo(radioCirculo);
-    std::cout << "El área del circulo es: " << areaCirculo << std::endl;
+    std::cout << "El area del circulo es: " << areaCirculo << std::endl;
 
     return 0;
 }
